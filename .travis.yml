@@ -1,0 +1,9 @@
+language: python
+python:
+  - 3.8
+
+sevices:
+  - docker
+
+script:
+  - python3 file.py
